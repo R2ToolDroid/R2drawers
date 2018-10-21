@@ -8,7 +8,7 @@ Drawer for CSL Alumium Skin Bodys with JAG Style Alu Frame.
 the .pdf is for the name of the four different types
 S1 - S2 - S3 - S4
 
-All drawers are powered by ES08MAII Mini Servo.
+All drawers are powerd by ES08MAII Mini Servo.
 
 The filename are S1 a for the lower part and S1 b for the drawer.Take care of your Printer to print the file the right directon.
 
